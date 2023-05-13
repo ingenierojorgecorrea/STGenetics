@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STGenetics", "DapperSample\STGenetics.csproj", "{F5B373DF-81C9-4629-AAF4-BA598AA909B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STGenetics.Test", "STGenetics.Test\STGenetics.Test.csproj", "{57574794-5C63-48C2-992B-7BAB7C351792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B373DF-81C9-4629-AAF4-BA598AA909B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B373DF-81C9-4629-AAF4-BA598AA909B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B373DF-81C9-4629-AAF4-BA598AA909B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B373DF-81C9-4629-AAF4-BA598AA909B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57574794-5C63-48C2-992B-7BAB7C351792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57574794-5C63-48C2-992B-7BAB7C351792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57574794-5C63-48C2-992B-7BAB7C351792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57574794-5C63-48C2-992B-7BAB7C351792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27955F9E-C0AE-49C1-90B9-F5E4A7C8F5A3}
+	EndGlobalSection
+EndGlobal
